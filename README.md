@@ -2,7 +2,7 @@
 
   <p>This repository is dedicated to providing training materials for my amazing Data Boot Camp students. Here, you'll find resources, exercises, and information designed to help you excel in your journey to becoming proficient in various data-related skills.</p>
 
-  <h2>What's Inside</h2>
+  <h1>What's Inside</h1>
 
   <ul>
     <li><strong>Lecture Notes:</strong> Find detailed notes from our interactive lectures, breaking down complex concepts into understandable chunks.</li>
